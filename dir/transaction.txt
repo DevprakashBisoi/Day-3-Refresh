@@ -1,0 +1,23 @@
+{
+  "user1": [
+    {"deposit": 100},
+    {"withdraw": 100},
+    {"deposit": 100},
+    {"deposit": 100},
+    {"deposit": 100}
+  ],
+  "user2": [
+    {"deposit": 100},
+    {"withdraw": 100},
+    {"deposit": 100},
+    {"deposit": 100},
+    {"deposit": 100}
+  ],
+  "user3": [
+    {"deposit": 100},
+    {"withdraw": 100},
+    {"deposit": 100},
+    {"deposit": 100},
+    {"deposit": 100}
+  ]
+}
